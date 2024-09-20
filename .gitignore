@@ -1,0 +1,9 @@
+.venv*
+.cache
+.vscode
+__pycache__
+twitter_ai_faces.egg-info
+data
+output
+results
+debug
