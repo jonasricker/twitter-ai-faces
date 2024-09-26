@@ -20,8 +20,8 @@ We cannot provide the actual profile images due to Twitter's terms of service.
 
 ## Detection Pipeline
 To use our detection pipeline, you first need to download the necessary weights:
-- download the [weights](https://github.com/hollance/BlazeFace-PyTorch) (`anchors.npy`, `anchorsback.npy`, `blazeface.pth`, `blazefaceback.pth`) for BlazeFace and put them in `weights/blazeface`
-- download the checkpoint for our trained classifier and put them in `weights/resnet`
+- download the [weights](https://github.com/hollance/BlazeFace-PyTorch) (`anchors.npy`, `anchorsback.npy`, `blazeface.pth`, `blazefaceback.pth`) for BlazeFace and save them in `weights/blazeface`
+- download the checkpoint for our trained classifier and save it in `weights/resnet`
 
 Then, run
 ```
